@@ -15,6 +15,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">OnePlus Config Panel</string>
+
     <!-- O-Click settings -->
     <string name="oclick_panel_title" translatable="false">O-Click</string>
 
